@@ -1,8 +1,5 @@
-<html>
- <head>
-  <meta http-equiv="refresh" content="0; url=https://forms.office.com/Pages/ResponsePage.aspx?id=vmhvD_JOWkaYa-uaJQ2XiauPfj7oO8hIp_OLgjfQ-stUNDdWUFlBSDhWRjVBUFlMTkFZV01ITDBVVi4u">
- </head>
- <body>
-  <h1>Redireccionando a Formulario Contacto</h1>
- </body>
-</html>
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redireccionando a Formulario Contacto</title>
+<meta http-equiv="refresh" content="0; URL=https://forms.office.com/Pages/ResponsePage.aspx?id=vmhvD_JOWkaYa-uaJQ2XiauPfj7oO8hIp_OLgjfQ-stUNDdWUFlBSDhWRjVBUFlMTkFZV01ITDBVVi4u">
+<link rel="canonical" href="https://forms.office.com/Pages/ResponsePage.aspx?id=vmhvD_JOWkaYa-uaJQ2XiauPfj7oO8hIp_OLgjfQ-stUNDdWUFlBSDhWRjVBUFlMTkFZV01ITDBVVi4u">
